@@ -1,4 +1,4 @@
-package com.devi.ai.alibaba.func;
+package com.devil.ai.func;
 
 import java.util.function.Function;
 

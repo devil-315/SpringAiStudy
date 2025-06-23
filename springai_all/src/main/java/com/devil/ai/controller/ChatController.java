@@ -1,4 +1,4 @@
-package com.devi.ai.alibaba.controller;
+package com.devil.ai.controller;
 
 import com.alibaba.cloud.ai.dashscope.chat.DashScopeChatOptions;
 import org.springframework.ai.chat.messages.Message;

@@ -1,6 +1,6 @@
 package com.devil.ai.config;
 
-import com.devi.ai.alibaba.func.RecruitServiceFunction;
+import com.devil.ai.func.RecruitServiceFunction;
 import org.springframework.ai.document.Document;
 import org.springframework.ai.embedding.EmbeddingModel;
 import org.springframework.ai.reader.TextReader;
